@@ -1,0 +1,7 @@
+function setup(){
+createCanvas(500,500);
+}
+
+function draw(){
+ellipse(height/2,widht/2,50,50);
+}
